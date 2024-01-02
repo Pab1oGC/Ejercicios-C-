@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\juegoDeTenis\bin\Debug\net6.0\juegoDeTenis.exe
+C:\Users\USER\source\repos\juegoDeTenis\bin\Debug\net6.0\juegoDeTenis.deps.json
+C:\Users\USER\source\repos\juegoDeTenis\bin\Debug\net6.0\juegoDeTenis.runtimeconfig.json
+C:\Users\USER\source\repos\juegoDeTenis\bin\Debug\net6.0\juegoDeTenis.dll
+C:\Users\USER\source\repos\juegoDeTenis\bin\Debug\net6.0\juegoDeTenis.pdb
+C:\Users\USER\source\repos\juegoDeTenis\obj\Debug\net6.0\juegoDeTenis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\juegoDeTenis\obj\Debug\net6.0\juegoDeTenis.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\juegoDeTenis\obj\Debug\net6.0\juegoDeTenis.AssemblyInfo.cs
+C:\Users\USER\source\repos\juegoDeTenis\obj\Debug\net6.0\juegoDeTenis.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\juegoDeTenis\obj\Debug\net6.0\juegoDeTenis.dll
+C:\Users\USER\source\repos\juegoDeTenis\obj\Debug\net6.0\refint\juegoDeTenis.dll
+C:\Users\USER\source\repos\juegoDeTenis\obj\Debug\net6.0\juegoDeTenis.pdb
+C:\Users\USER\source\repos\juegoDeTenis\obj\Debug\net6.0\juegoDeTenis.genruntimeconfig.cache
+C:\Users\USER\source\repos\juegoDeTenis\obj\Debug\net6.0\ref\juegoDeTenis.dll

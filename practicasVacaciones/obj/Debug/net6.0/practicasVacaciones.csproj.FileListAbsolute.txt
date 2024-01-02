@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\practicasVacaciones\bin\Debug\net6.0\practicasVacaciones.exe
+C:\Users\USER\source\repos\practicasVacaciones\bin\Debug\net6.0\practicasVacaciones.deps.json
+C:\Users\USER\source\repos\practicasVacaciones\bin\Debug\net6.0\practicasVacaciones.runtimeconfig.json
+C:\Users\USER\source\repos\practicasVacaciones\bin\Debug\net6.0\practicasVacaciones.dll
+C:\Users\USER\source\repos\practicasVacaciones\bin\Debug\net6.0\practicasVacaciones.pdb
+C:\Users\USER\source\repos\practicasVacaciones\obj\Debug\net6.0\practicasVacaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\practicasVacaciones\obj\Debug\net6.0\practicasVacaciones.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\practicasVacaciones\obj\Debug\net6.0\practicasVacaciones.AssemblyInfo.cs
+C:\Users\USER\source\repos\practicasVacaciones\obj\Debug\net6.0\practicasVacaciones.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\practicasVacaciones\obj\Debug\net6.0\practicasVacaciones.dll
+C:\Users\USER\source\repos\practicasVacaciones\obj\Debug\net6.0\refint\practicasVacaciones.dll
+C:\Users\USER\source\repos\practicasVacaciones\obj\Debug\net6.0\practicasVacaciones.pdb
+C:\Users\USER\source\repos\practicasVacaciones\obj\Debug\net6.0\practicasVacaciones.genruntimeconfig.cache
+C:\Users\USER\source\repos\practicasVacaciones\obj\Debug\net6.0\ref\practicasVacaciones.dll
