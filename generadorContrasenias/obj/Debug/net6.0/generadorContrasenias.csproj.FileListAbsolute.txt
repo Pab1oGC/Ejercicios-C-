@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\generadorContrasenias\bin\Debug\net6.0\generadorContrasenias.exe
+C:\Users\USER\source\repos\generadorContrasenias\bin\Debug\net6.0\generadorContrasenias.deps.json
+C:\Users\USER\source\repos\generadorContrasenias\bin\Debug\net6.0\generadorContrasenias.runtimeconfig.json
+C:\Users\USER\source\repos\generadorContrasenias\bin\Debug\net6.0\generadorContrasenias.dll
+C:\Users\USER\source\repos\generadorContrasenias\bin\Debug\net6.0\generadorContrasenias.pdb
+C:\Users\USER\source\repos\generadorContrasenias\obj\Debug\net6.0\generadorContrasenias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\generadorContrasenias\obj\Debug\net6.0\generadorContrasenias.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\generadorContrasenias\obj\Debug\net6.0\generadorContrasenias.AssemblyInfo.cs
+C:\Users\USER\source\repos\generadorContrasenias\obj\Debug\net6.0\generadorContrasenias.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\generadorContrasenias\obj\Debug\net6.0\generadorContrasenias.dll
+C:\Users\USER\source\repos\generadorContrasenias\obj\Debug\net6.0\refint\generadorContrasenias.dll
+C:\Users\USER\source\repos\generadorContrasenias\obj\Debug\net6.0\generadorContrasenias.pdb
+C:\Users\USER\source\repos\generadorContrasenias\obj\Debug\net6.0\generadorContrasenias.genruntimeconfig.cache
+C:\Users\USER\source\repos\generadorContrasenias\obj\Debug\net6.0\ref\generadorContrasenias.dll
